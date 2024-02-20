@@ -28,7 +28,7 @@ Hello, I'm Aadesh Bhardwaj, a DevOps Engineer based in Haryana, India. My expert
 
 ## Experience
 
-I was a core member of the backend team that created [Atmosly](https://www.atmosly.com), a platform [brief description of Atmosly].
+I was a core member of the backend team that created [Atmosly](https://www.atmosly.com)
 
 ## Get in Touch
 
@@ -38,7 +38,7 @@ I was a core member of the backend team that created [Atmosly](https://www.atmos
 
 ## Support Me
 
-Although I don't have any personal projects or a PayPal account at the moment, your support means a lot to me! You can show your support by:
+If you find my work helpful or interesting, you can support me by:
 
 - ⭐️ Star my repositories
 - 🔄 Fork my repositories
